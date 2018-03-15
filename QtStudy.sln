@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtStudy", "QtStudy.vcxproj", "{B12702AD-ABFB-343A-A199-8E24837244A3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.1 QCheckBox, QButtonGroup", "1.1 QCheckBox, QButtonGroup\1.1 QCheckBox, QButtonGroup.vcxproj", "{CD65CB73-5418-40BC-84C0-B43366BAAD06}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qt console", "qt console\qt console.vcxproj", "{22A9B618-8A2C-4A44-AE91-FC1815D9F570}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +19,14 @@ Global
 		{B12702AD-ABFB-343A-A199-8E24837244A3}.Debug|x86.Build.0 = Debug|Win32
 		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x86.ActiveCfg = Release|Win32
 		{B12702AD-ABFB-343A-A199-8E24837244A3}.Release|x86.Build.0 = Release|Win32
+		{CD65CB73-5418-40BC-84C0-B43366BAAD06}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD65CB73-5418-40BC-84C0-B43366BAAD06}.Debug|x86.Build.0 = Debug|Win32
+		{CD65CB73-5418-40BC-84C0-B43366BAAD06}.Release|x86.ActiveCfg = Release|Win32
+		{CD65CB73-5418-40BC-84C0-B43366BAAD06}.Release|x86.Build.0 = Release|Win32
+		{22A9B618-8A2C-4A44-AE91-FC1815D9F570}.Debug|x86.ActiveCfg = Debug|Win32
+		{22A9B618-8A2C-4A44-AE91-FC1815D9F570}.Debug|x86.Build.0 = Debug|Win32
+		{22A9B618-8A2C-4A44-AE91-FC1815D9F570}.Release|x86.ActiveCfg = Release|Win32
+		{22A9B618-8A2C-4A44-AE91-FC1815D9F570}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
