@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.1 QCheckBox, QButtonGroup
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "qt console", "qt console\qt console.vcxproj", "{22A9B618-8A2C-4A44-AE91-FC1815D9F570}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.2 QComboBox, QCommandLInkButton", "1.2 QComboBox\1.2 QComboBox.vcxproj", "{58A91FE8-1239-4F63-B8AF-FD5B8CAA3BFD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.4 QDate, QDateEdit", "1.4 QDate, QDateEdit\1.4 QDate, QDateEdit.vcxproj", "{9ED37ED2-272B-4D0A-B288-FF150BB44AFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -27,6 +31,14 @@ Global
 		{22A9B618-8A2C-4A44-AE91-FC1815D9F570}.Debug|x86.Build.0 = Debug|Win32
 		{22A9B618-8A2C-4A44-AE91-FC1815D9F570}.Release|x86.ActiveCfg = Release|Win32
 		{22A9B618-8A2C-4A44-AE91-FC1815D9F570}.Release|x86.Build.0 = Release|Win32
+		{58A91FE8-1239-4F63-B8AF-FD5B8CAA3BFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{58A91FE8-1239-4F63-B8AF-FD5B8CAA3BFD}.Debug|x86.Build.0 = Debug|Win32
+		{58A91FE8-1239-4F63-B8AF-FD5B8CAA3BFD}.Release|x86.ActiveCfg = Release|Win32
+		{58A91FE8-1239-4F63-B8AF-FD5B8CAA3BFD}.Release|x86.Build.0 = Release|Win32
+		{9ED37ED2-272B-4D0A-B288-FF150BB44AFC}.Debug|x86.ActiveCfg = Debug|Win32
+		{9ED37ED2-272B-4D0A-B288-FF150BB44AFC}.Debug|x86.Build.0 = Debug|Win32
+		{9ED37ED2-272B-4D0A-B288-FF150BB44AFC}.Release|x86.ActiveCfg = Release|Win32
+		{9ED37ED2-272B-4D0A-B288-FF150BB44AFC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
